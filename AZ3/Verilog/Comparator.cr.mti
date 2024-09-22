@@ -1,0 +1,32 @@
+C:/Users/acer/Desktop/DSD/Comparator/serial_comparator.v {1 {vlog -work work -vopt -stats=none C:/Users/acer/Desktop/DSD/Comparator/serial_comparator.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module serial_comparator
+
+Top level modules:
+	serial_comparator
+
+} {} {}} C:/Users/acer/Desktop/DSD/Comparator/four_bit_comparator.v {1 {vlog -work work -vopt -stats=none C:/Users/acer/Desktop/DSD/Comparator/four_bit_comparator.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module one_bit_comparator
+-- Compiling module four_bit_comparator
+
+Top level modules:
+	four_bit_comparator
+
+} {} {}} C:/Users/acer/Desktop/DSD/Comparator/serial_comparator_test.v {1 {vlog -work work -vopt -stats=none C:/Users/acer/Desktop/DSD/Comparator/serial_comparator_test.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module serial_comparator
+-- Compiling module serial_comparator_test
+
+Top level modules:
+	serial_comparator_test
+
+} {} {}} C:/Users/acer/Desktop/DSD/Comparator/one_bit_comparator_test.v {1 {vlog -work work -vopt -stats=none C:/Users/acer/Desktop/DSD/Comparator/one_bit_comparator_test.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module one_bit_comparator
+-- Compiling module one_bit_comparator_test
+
+Top level modules:
+	one_bit_comparator_test
+
+} {} {}}
