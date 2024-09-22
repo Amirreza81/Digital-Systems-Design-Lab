@@ -1,0 +1,225 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/acer/Desktop/AzDSD/3/modelsim
+T_opt
+!s110 1690543253
+VVFlSEdl9SQAaSKUmXi@^e3
+04 22 4 work serial_comparator_test fast 0
+=1-089798842480-64c3a495-23b-2350
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+T_opt1
+!s110 1690524584
+VOKAOgaS2g@M`ECUU0@c>J2
+04 23 4 work one_bit_comparator_test fast 0
+=1-089798842480-64c35ba8-e7-e00
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1690530285
+V=;388hAY?IYgfnJfYg3m_0
+04 24 4 work four_bit_comparator_test fast 0
+=1-089798842480-64c371ec-3ac-2798
+R1
+R2
+n@_opt2
+R3
+R0
+vfour_bit_comparator
+Z4 !s110 1690530275
+!i10b 1
+!s100 :kV_`U;gS]>2AZB?Uok9H0
+Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ibld=<<0MBQ`RkX8KVBH7h3
+Z6 dC:/Users/acer/Desktop/DSD/Comparator
+w1690528450
+8four_bit_comparator.v
+Ffour_bit_comparator.v
+!i122 4
+L0 3 12
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z9 !s108 1690530275.000000
+Z10 !s107 one_bit_comparator.v|four_bit_comparator.v|C:/Users/acer/Desktop/DSD/Comparator/four_bit_comparator_test.v|
+Z11 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/acer/Desktop/DSD/Comparator/four_bit_comparator_test.v|
+!i113 0
+Z12 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vfour_bit_comparator_test
+R4
+!i10b 1
+!s100 9j0blREKDDD>X7cjWmk3f0
+R5
+I:6n8di2A]ME?]TUaJ=_<[3
+R6
+w1690530268
+8C:/Users/acer/Desktop/DSD/Comparator/four_bit_comparator_test.v
+FC:/Users/acer/Desktop/DSD/Comparator/four_bit_comparator_test.v
+!i122 4
+L0 3 25
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R2
+vone_bit_comparator
+R4
+!i10b 1
+!s100 Q=DaeE?fj1hzO@5RTRElQ1
+R5
+ITfGZCn:A>cUb]3HY^1_4o3
+R6
+w1690526214
+8one_bit_comparator.v
+Fone_bit_comparator.v
+!i122 4
+L0 1 11
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R2
+vone_bit_comparator_test
+!s110 1690524073
+!i10b 1
+!s100 015JnoLZm@f;Y6dmBY]iT0
+R5
+I8MK7?eBeCDDmT:Z<?CoFl1
+R6
+w1690523779
+8C:/Users/acer/Desktop/DSD/Comparator/one_bit_comparator_test.v
+FC:/Users/acer/Desktop/DSD/Comparator/one_bit_comparator_test.v
+!i122 1
+L0 3 54
+R7
+R8
+r1
+!s85 0
+31
+!s108 1690524073.000000
+!s107 one_bit_comparator.v|C:/Users/acer/Desktop/DSD/Comparator/one_bit_comparator_test.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/acer/Desktop/DSD/Comparator/one_bit_comparator_test.v|
+!i113 0
+R12
+R2
+vsequential_comparator
+!s110 1690542104
+!i10b 1
+!s100 fIY6JI3<i8onen1DOj9U32
+R5
+ImFnbAIeMb[9=50mJ3VVKo1
+R6
+w1690541620
+Z13 8serial_comparator.v
+Z14 Fserial_comparator.v
+!i122 25
+L0 53 18
+R7
+R8
+r1
+!s85 0
+31
+!s108 1690542104.000000
+Z15 !s107 serial_comparator.v|C:/Users/acer/Desktop/DSD/Comparator/serial_comparator_test.v|
+Z16 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/acer/Desktop/DSD/Comparator/serial_comparator_test.v|
+!i113 0
+R12
+R2
+vserial_comparator
+Z17 !s110 1690543242
+!i10b 1
+!s100 i6]5LB?[1;ZeIo[YE8aU42
+R5
+IeBIiIBzPb_iAS^F`2iSEo2
+R6
+w1690542567
+R13
+R14
+!i122 32
+L0 1 18
+R7
+R8
+r1
+!s85 0
+31
+Z18 !s108 1690543242.000000
+R15
+R16
+!i113 0
+R12
+R2
+vserial_comparator_test
+R17
+!i10b 1
+!s100 d?eT^mP1ig4cQ]Yi7Id9g1
+R5
+I@?4fLUB5kQDLBFESgJc]M1
+R6
+w1690543229
+8C:/Users/acer/Desktop/DSD/Comparator/serial_comparator_test.v
+FC:/Users/acer/Desktop/DSD/Comparator/serial_comparator_test.v
+!i122 32
+L0 3 59
+R7
+R8
+r1
+!s85 0
+31
+R18
+R15
+R16
+!i113 0
+R12
+R2
+vSerialComparator
+!s110 1690541377
+!i10b 1
+!s100 dG:JYJFj`hc<VY?MJ`hnV1
+R5
+IG:;K7hkFm5?5[<0>T][6g1
+R6
+w1690540978
+R13
+R14
+!i122 19
+L0 30 21
+R7
+R8
+r1
+!s85 0
+31
+!s108 1690541377.000000
+R15
+R16
+!i113 0
+R12
+R2
+n@serial@comparator
