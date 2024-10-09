@@ -1,0 +1,17 @@
+{C:/Users/Amir Reza 81/Desktop/AzDsd5/Booth_test.v} {1 {vlog -work work -vopt -stats=none {C:\Users\Amir Reza 81\Desktop\AzDsd5\Booth_test.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module booth_test
+
+Top level modules:
+	booth_test
+
+} {} {}} {C:/Users/Amir Reza 81/Desktop/AzDsd5/Booth.v} {1 {vlog -work work -vopt -stats=none {C:\Users\Amir Reza 81\Desktop\AzDsd5\Booth.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module booth
+-- Compiling module control_unit
+-- Compiling module data_path
+
+Top level modules:
+	booth
+
+} {} {}}
